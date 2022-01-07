@@ -1,1 +1,1 @@
-# spring_data_jpa
+## Just a simple Java Spring webapp
